@@ -1,5 +1,5 @@
 # perlscript
-Perl script for dumb hacker detection
+Perl script for dumb hacking wer server attempt detection
 
 # How it works
 
