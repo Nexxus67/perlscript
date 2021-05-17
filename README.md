@@ -1,5 +1,5 @@
 # perlscript
-Perl script for dumb hacking wer server attempt detection
+Perl script for dumb hacking wer server attempt detection (if you didn't implement a honeypot)
 
 # How it works
 
